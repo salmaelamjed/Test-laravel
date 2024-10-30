@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-containers",
+        "ieee-nitk.codepal",
+        "wmaurer.change-case",
+        "m1guelpf.better-pest",
+        "arifbudimanar.better-laravel-extension-pack",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport",
+        "arifbudimanar.arifcode-theme-windows",
+        "pcbowers.alpine-intellisense",
+        "cweijan.dbclient-jdbc",
+        "damms005.devdb",
+        "mikestead.dotenv",
+        "usernamehw.errorlens",
+        "editorconfig.editorconfig",
+        "mrmlnc.vscode-duplicate",
+        "rodrigovallades.es7-react-js-snippets",
+        "waderyan.gitblame"
+    ]
+}
